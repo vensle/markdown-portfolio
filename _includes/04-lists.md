@@ -1,0 +1,5 @@
+- videogames
+- books
+- swimming
+- snow and rain
+- chocolate
