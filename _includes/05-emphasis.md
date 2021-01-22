@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am from the **Czech Republic**, I have a **BS** in _Biology_ and am working on a **BS** in _Computer Science_. 
