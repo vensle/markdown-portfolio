@@ -1,5 +1,5 @@
-videogames
-books
-swimming
-snow and rain
-chocolate
+- videogames
+- books
+- swimming
+- snow and rain
+- chocolate
